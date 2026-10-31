@@ -1,6 +1,8 @@
 # DBMS Assignment - 9 (Mini Project)
 ## Community Tool & Seed Library — Database Connectivity Demo
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 | Field | Details |
 |-------|---------|
 | **Name** | Aditya Yadnik |

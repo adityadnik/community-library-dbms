@@ -1,0 +1,14 @@
+# SQLite database file (auto-generated, do not commit)
+library.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
